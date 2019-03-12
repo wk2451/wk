@@ -1,0 +1,13 @@
+http://qatadmin.sg04.com/index.php/index   qat站后台网址
+http://qat-web.bxvip.co/                   前台
+
+http://api.sg04.com/index.php/index/index/main?link=https://2362018.com/request   前台api测试
+
+ssh -o StrictHostKeyChecking=no root@123.59.xx.xx ssh连接
+
+https://docs.google.com/spreadsheets/d/1u22D0BXbY3TNZn0cM4qVheCj6wZzLfDgCF_6palWsTs/edit#gid=0
+
+
+
+
+

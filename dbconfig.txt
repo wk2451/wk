@@ -1,0 +1,141 @@
+﻿ssh ubuntu@192.168.100.145
+asdasd
+ssh prod_lottery_fix
+8nzztvWTEMrF
+
+vim dbconfig.txt 
+Q彩数据库(gamedb_qcai)
+mysql -hrds8-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+679彩数据库(gamedb_679cai)
+mysql -hrds7-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+七天彩数据库(gamedb_qtc)
+mysql -hrds11-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+    
+永城彩数据库(gamedb_yongchengcai)
+mysql -hyongcheng-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+讯盈彩数据库(gamedb_xunyingcai)
+mysql -hyongcheng-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+567彩数据库(gamedb_567cai)
+mysql -hrds2-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+大发彩数据库(gamedb_dafa)
+mysql -hrds2-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+易发(1256)彩数据库(gamedb_1256cai)
+mysql -hrds3-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+彩票榜彩数据库(gamedb_cpbang)
+mysql -hrds3-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+新九州彩数据库(gamedb_xjzcp)
+mysql -hrds3-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+好彩数据库(gamedb)
+mysql -hrds4-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw         
+
+369彩数据库(gamedb_369cai)
+mysql -hrds4-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+福彩数据库(gamedb_fcai)
+mysql -hrds4-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+红彩数据库(gamedb_hungtsaicai)
+mysql -hrds5-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+      
+牛彩数据库(gamedb_niucai)
+mysql -hrds5-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+      
+大赢家彩数据库(gamedb_dayingjiacai)
+mysql -hrds5-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+      
+幸运彩数据库(gamedb_xingyuncai)
+mysql -hrds7-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+679彩数据库(gamedb_679cai)
+mysql -hrds7-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+起点彩数据库(gamedb_qidiancai)
+mysql -hrds7-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+易购彩数据库(gamedb_egcai)
+mysql -hyongcheng-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+152彩数据库(gamedb_152cai)
+mysql -hrds6-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+彩九数据库(gamedb_ninecai)
+mysql -hrds6-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+大大彩数据库(gamedb_dadacai)
+mysql -hdadacai-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+必赢彩数据库(gamedb_bingyingcai)
+mysql -hbiyingcai-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+985彩数据库(gamedb_985cai)
+mysql -hcai985-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+939彩数据库(gamedb_939cai)
+mysql -hcai939-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+欢乐彩数据库(gamedb_huanlecai)
+mysql -hhuanlecai-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+879彩数据库(gamedb_879cai)
+mysql -hcai879-cluster-1.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+全球彩数据库(gamedb_606cai)
+mysql -hcai606-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+198彩数据库(gamedb_198cai)
+mysql -hcai198-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+236彩数据库(gamedb_236cai)
+mysql -hcai236-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+中国龙彩数据库(gamedb_zjgguolong)
+mysql -hzjgguolong-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uphinx -p
+Vybh2XKo^yKw
+
+QAT数据库(gamedb_qat)
+
+ssh qat-web2
+mysql -hqat-cluster.cluster-cbtwtcggspok.ap-northeast-1.rds.amazonaws.com -uqatmaster -peiK9phoo 
+
+内网 mycat 数据库 
+mysql -uroot -p123456 -h192.168.100.118 -P8066
